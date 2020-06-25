@@ -2,8 +2,6 @@
 
 *The no bullshit presentation tool*
 
-![Complexite](complexite.svg)
-
 ---
 
 ## Write your slides in **markdown**
