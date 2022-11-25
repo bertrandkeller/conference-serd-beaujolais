@@ -8,7 +8,7 @@
 ---
 
 1. Destruction de la biodiversité
-2. Création d'inégalités
+2. Création d’inégalités
 2. Réchauffement climatique
 
 ---
@@ -20,7 +20,7 @@
 ### Les 7 catégories d’équipements ménagers
 
 ```dsv;
-; Noms
+#; Noms
 1; Équipements d’échange thermique
 2; Écrans, moniteurs et équipements avec des écrans supérieure à 100 cm2
 3; Lampes
@@ -29,30 +29,38 @@
 6; Petits équipements informatiques et de télécommunications
 7; Panneaux photovoltaïques
 ```
+
 **Source: ADEME**
 
 ---
 
 ### En volume ?
 
-> Les gens se sont débarrassés de 53,6 millions de tonnes métriques de déchets électroniques en 2019 une quantité qui devrait augmenter de près de 40 % d'ici 2030.
+> Les gens se sont débarrassés de 53,6 millions de tonnes métriques de déchets électroniques en 2019 une quantité qui devrait augmenter de près de 40 % d’ici 2030.
+**Source : [https://www.circularonline.co.uk](https://www.circularonline.co.uk/news/uci-professor-describes-how-to-develop-a-circular-economy-for-e-waste/)**
 
 ---
 
 ### En recyclage ?
 
-> Le Global E-waste Monitor indique qu'en 2019, seuls 17 % environ des déchets électroniques du monde étaient correctement gérés en vue de leur recyclage dans les pays qui les produisent
+> Le Global E-waste Monitor indique qu’en 2019, seuls 17 % environ des déchets électroniques du monde étaient correctement gérés en vue de leur recyclage dans les pays qui les produisent
 
 ---
 
 ### Avantage de les envoyer dans le tiers monde ?
 
-> Les pays développés bénéficieraient de coûts d'élimination moins élevés dans les pays en développement.<br><br>
-Les pays en développement auraient accès à des matières premières bon marché grâce au recyclage des déchets, et verraient exploser la production et l'emploi.<br><br>
+> Les pays développés bénéficieraient de coûts d’élimination moins élevés dans les pays en développement.<br><br>
+Les pays en développement auraient accès à des matières premières bon marché grâce au recyclage des déchets, et verraient exploser la production et l’emploi.
+
+---
+
+## Inventaire dans la salle de nos équipements électroniques !
 
 ---
 
 ### Carte de la production de déchets
+
+![Carte mondial des déchets](carte-mondiale-dechets.png)
 
 [https://climatetrace.org/map/](https://climatetrace.org/map/)
 
@@ -61,9 +69,9 @@ Les pays en développement auraient accès à des matières premières bon march
 ## 2. C’est quoi l’économie circulaire&nbsp;?
 
 ---
-### L'économie circulaire
+### L’économie circulaire
 
- > L’économie circulaire consiste à produire des biens et des services de manière durable en limitant la consommation et le gaspillage des ressources et la production des déchets.<br><br>
+ > L’économie circulaire consiste à produire des biens et des services de manière durable en limitant la consommation et le gaspillage des ressources et la production des déchets.
  **Source : Ministère de la Transition écologique**
 ---
 
@@ -76,7 +84,7 @@ Les pays en développement auraient accès à des matières premières bon march
 ---
 
 ### Problèmes sociaux
-> La décarbonisation des secteurs de l'électricité et des transports peut poser un problème éthique dans lequel la réduction des émissions de carbone au niveau mondial (pays développés) se fait au détriment d'une augmentation des risques socio-environnementaux sur les sites miniers locaux (pays en développement).<br><br>
+> La décarbonisation des secteurs de l’électricité et des transports peut poser un problème éthique dans lequel la réduction des émissions de carbone au niveau mondial (pays développés) se fait au détriment d’une augmentation des risques socio-environnementaux sur les sites miniers locaux (pays en développement).
 **Source : [https://www.sciencedirect.com/](https://www.sciencedirect.com/science/article/pii/S0959652621019168)**
 
 ---
@@ -90,16 +98,13 @@ Les pays en développement auraient accès à des matières premières bon march
 
 ### Enjeux de filière
 
-> Unir ses forces à celles d'une autre entreprise qui s'occupe de recyclage depuis longtemps, trouver des prestataires de services appropriés pour fournir une assistance externe au recyclage… De telles options sont vitales lorsque les entreprises n’ont pas encore de machines sur place et n’ont pas l’expérience nécessaires.
-
+> Unir ses forces à celles d’une autre entreprise qui s’occupe de recyclage depuis longtemps, trouver des prestataires de services appropriés pour fournir une assistance externe au recyclage… De telles options sont vitales lorsque les entreprises n’ont pas encore de machines sur place et n’ont pas l’expérience nécessaires.
 **Source : [https://epsnews.com/](https://epsnews.com/2022/10/12/e-waste-spurs-advancements-in-recycling/)**
 
 
 ---
 
-### Evaluation de l'impact environnemental d'un ensemble de produits reconditionnés
-
-L'acquisition d'un équipement reconditionné plutôt que d'un neuf permet d'éviter :
+### L’acquisition équipement reconditionné Vs neuf
 
 * Smartphones : 87 à 64% d’impact annuel
 * Tablette : 46 à 80% d’impact annuel
@@ -107,6 +112,29 @@ L'acquisition d'un équipement reconditionné plutôt que d'un neuf permet d'év
 * Ordinateur fixe : 43 à 97% d’impact annuel
 
 **Source : [ADEME](https://librairie.ademe.fr/dechets-economie-circulaire/5241-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html)**
+
+---
+
+### Variations d'impacts allant d'un facteur 2 à 11 selon pratiques
+
+1. La prolongation de la durée de vie
+1. L'ajout d’accessoires neufs
+1. Le changement de pièces systématisé ou non
+1. L'utilisation de pièces de seconde main
+1. Le volume du packaging et les matériaux le constituant
+1. Le marché d’approvisionnement
+1. Le lieu de reconditionnement
+
+**Source : [ADEME](https://librairie.ademe.fr/dechets-economie-circulaire/5241-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html)**
+
+---
+### Comment développer l'économie circulaire ?
+
+1. Récupération des appareils électroniques en fin de vie
+1. Le développement d'outils d'automatisation rentables pour le désassemblage des produits électroniques
+1. La récupération des ressources matérielles, en particulier le cobalt, des appareils mis au rebut.
+
+**Source : [https://www.circularonline.co.uk](https://www.circularonline.co.uk/news/uci-professor-describes-how-to-develop-a-circular-economy-for-e-waste/)**
 
 ---
 
@@ -126,10 +154,14 @@ L'acquisition d'un équipement reconditionné plutôt que d'un neuf permet d'év
 
 ### Et ici on en est où ?
 
-1. Baisse de la disponibilité des matières premières
-1. Augmentation du coût des matières premières
-1. Obligation de garder plus longtemps
-1. Obligation de maintenance
+1. Baisse de la disponibilité des matières premières ?
+1. Augmentation du coût des matières premières ?
+1. Obligation de garder plus longtemps ?
+1. Obligation de maintenance ?
+
+---
+
+## La société de demain : la France est un pays pauvre
 
 ---
 
@@ -144,23 +176,14 @@ L'acquisition d'un équipement reconditionné plutôt que d'un neuf permet d'év
 
 ---
 
-Carte du territoire
+Carte du territoire<br><br>
 
 ---
 
 ### Pour aller plus loin Low-Tech
+
+**Low-tech : après les imaginaires de la sobriété technique, il faut s’intéresser aux usages:**
 https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-technique-il-faut-sinteresser-aux-usages-190693
-
----
-
-1. Quels types de déchets ? Prendre de la matière, la transformer,…
-1. Reports Pollution/Impact entre usage et fabrication (grand thème actuel)
-1. Volumes de déchets :: recyclage - matière première
-1. Les usages ?
-1. Les filières, le réemploi
-
-La société de demain : la France est un pays pauvre
-
 
 
 
@@ -169,7 +192,7 @@ La société de demain : la France est un pays pauvre
       font-family: Subjectivity;
       font-weight: 400;
       font-style: normal;
-      src: url('fonts/Subjectivity/Subjectivity-Regular.woff2') format('woff2');
+      src: url(’fonts/Subjectivity/Subjectivity-Regular.woff2’) format(’woff2’);
     }
 
     @font-face {
@@ -177,7 +200,7 @@ La société de demain : la France est un pays pauvre
       font-weight: 200;
       font-style: normal;
 
-      src: url('fonts/Subjectivity/Subjectivity-Light.woff2') format('woff2');
+      src: url(’fonts/Subjectivity/Subjectivity-Light.woff2’) format(’woff2’);
     }
 
     @font-face {
@@ -185,7 +208,7 @@ La société de demain : la France est un pays pauvre
       font-weight: 500;
       font-style: normal;
 
-      src: url('fonts/Subjectivity/Subjectivity-Bold.woff2') format('woff2');
+      src: url(’fonts/Subjectivity/Subjectivity-Bold.woff2’) format(’woff2’);
     }
 
     body {
@@ -199,6 +222,14 @@ La société de demain : la France est un pays pauvre
       line-height: 1.5;
       font-size: clamp(1rem, 8.5vw, 1.8rem);
     }
+    .slide {
+      position: relative;
+      z-index: 0;
+    }
+
+    .slide, .slide-container {
+      height: 100%;
+    }
 
     .slide:has(h3) {
       position: relative;
@@ -210,7 +241,12 @@ La société de demain : la France est un pays pauvre
     }
 
     .text {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
       max-width: 50ch;
+      height: 100%;
+      z-index: 10;
     }
 
     .text strong {
@@ -226,6 +262,29 @@ La société de demain : la France est un pays pauvre
 
     .slide:first-child h1 {
       font-size: clamp(1rem, 10vw, 20rem);
+    }
+
+    .slide-with-image .image {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+    }
+
+    .slide-with-image .text {
+      max-width: 100%;
+    }
+
+    .slide-with-image h3 {
+      color: #fff;
+      background: rgba(0,0,0,0.6);
+    }
+
+    .slide-with-image p {
+      padding: 1rem 0;
+      color: #fff;
+      background: #000;
     }
 
     h1 {
@@ -256,17 +315,19 @@ La société de demain : la France est un pays pauvre
     h3 {
       top: 0;
       left: 0;
+      line-height:1.1;
       color: #fff;
       padding: 0.8rem 8vw 0.4rem;
       width: 100%;
       position: absolute;
       background: #0c7d01;
+      text-align: left;
     }
 
     blockquote {
       font-size: clamp(1rem, 2.5vw, 1.9rem);
-      font-weight: 300;
-      max-width: 60vw;
+      font-weight: 500;
+      max-width: 70vw;
     }
 
     ol {
@@ -286,11 +347,16 @@ La société de demain : la France est un pays pauvre
       font-size: 105%;
     }
 
+    .image {
+      min-height: 50vh;
+    }
+
     blockquote strong {
       display: block;
     }
 
     .text blockquote {
+      position: relative;
       font-style: normal;
     }
 
@@ -298,11 +364,13 @@ La société de demain : la France est un pays pauvre
       position: absolute;
       content: '\201C';
       margin: -2vh 0 0 -6vw;
-      font: 15vw/1 'PT Sans', sans-serif;
+      font: 15vw/1 "PT Sans", sans-serif;
       color: #555;
     }
 
-    table {
+    table,
+    table.codeblock {
+      font-size: clamp(1rem, 2vw, 1.2rem);
       font-variant-numeric: tabular-nums;
     }
 
