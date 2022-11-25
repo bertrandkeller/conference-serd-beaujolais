@@ -11,6 +11,8 @@
 2. Création d’inégalités
 2. Réchauffement climatique
 
+**Lire : [Rapide explication de nos émissions de CO2](https://jbledevehat.fr/emissions-de-co2/)**
+
 ---
 
 ## 2. C’est quoi un déchet électronique&nbsp;?
@@ -43,7 +45,21 @@
 
 ### En recyclage ?
 
-> Le Global E-waste Monitor indique qu’en 2019, seuls 17 % environ des déchets électroniques du monde étaient correctement gérés en vue de leur recyclage dans les pays qui les produisent
+> Le Global E-waste Monitor indique qu’en 2019, seuls 17 % environ des déchets électroniques du monde étaient correctement gérés en vue de leur recyclage dans les pays qui les produisent.
+
+**Lire : [Short-circuiting the electronic-waste crisis](https://www.nature.com/articles/d41586-022-03647-y)**
+
+---
+
+![Ewaste recyclage](ewaste-recycling.jpg)
+
+---
+
+![Smartphone](me_taux_smartphones.png)
+
+---
+
+![Complexité matériaux](complexite-materiaux.jpg)
 
 ---
 
@@ -83,7 +99,15 @@ Les pays en développement auraient accès à des matières premières bon march
 
 ---
 
-### Problèmes sociaux
+### Pollution chimique
+
+> Bien que la plupart des déchets dangereux aient été échangés entre pays développés, il existe une asymétrie disproportionnée dans le flux des pays développés vers les pays en développement.
+**Lire : [The world-wide waste web](https://www.nature.com/articles/s41467-022-28810-x)**
+
+
+---
+
+### Incidences sociales
 > La décarbonisation des secteurs de l’électricité et des transports peut poser un problème éthique dans lequel la réduction des émissions de carbone au niveau mondial (pays développés) se fait au détriment d’une augmentation des risques socio-environnementaux sur les sites miniers locaux (pays en développement).
 **Source : [https://www.sciencedirect.com/](https://www.sciencedirect.com/science/article/pii/S0959652621019168)**
 
@@ -138,6 +162,12 @@ Les pays en développement auraient accès à des matières premières bon march
 
 ---
 
+> Face à un tel défi, la smart data permettant le traitement en temps réel des données les plus pertinentes pour une activité - est la candidate parfaite pour la création de solutions à impact immédiat.
+
+**Source : [https://www.lixo.tech](https://www.lixo.tech/blog/gestion-des-dechets-la-data-a-un-role-a-jouer)**
+
+---
+
 ## Sortir de la pensée analytique ?
 
 ---
@@ -175,6 +205,9 @@ Les pays en développement auraient accès à des matières premières bon march
 5. Education ?
 
 ---
+2019 : 460,859
+2020 : 466,931
+---
 
 Carte du territoire<br><br>
 
@@ -184,6 +217,7 @@ Carte du territoire<br><br>
 
 **Low-tech : après les imaginaires de la sobriété technique, il faut s’intéresser aux usages:**
 https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-technique-il-faut-sinteresser-aux-usages-190693
+
 
 
 
