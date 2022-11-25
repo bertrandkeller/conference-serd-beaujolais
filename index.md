@@ -50,6 +50,15 @@
 
 ---
 
+### Près de chez vous
+
+1. 2019 : 460 859 kg/an
+1. 2020 : 466 931 kg/an
+
+
+---
+
+
 ![Ewaste recyclage](ewaste-recycling.jpg)
 
 ---
@@ -214,15 +223,9 @@
 
 ---
 
-1. 2019 : 460 859 kg/an
-1. 2020 : 466 931 kg/an
-
----
-
 ### Pour aller plus loin Low-Tech
 
-**Low-tech : après les imaginaires de la sobriété technique, il faut s’intéresser aux usages:**
-**Source : [https://theconversation.com/](https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-technique-il-faut-sinteresser-aux-usages-190693)
+**[Après les imaginaires de la sobriété technique, il faut s’intéresser aux usages](https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-technique-il-faut-sinteresser-aux-usages-190693)**
 
 
 
