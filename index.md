@@ -120,14 +120,6 @@ Les pays en développement auraient accès à des matières premières bon march
 
 ---
 
-### Enjeux de filière
-
-> Unir ses forces à celles d’une autre entreprise qui s’occupe de recyclage depuis longtemps, trouver des prestataires de services appropriés pour fournir une assistance externe au recyclage… De telles options sont vitales lorsque les entreprises n’ont pas encore de machines sur place et n’ont pas l’expérience nécessaires.
-**Source : [https://epsnews.com/](https://epsnews.com/2022/10/12/e-waste-spurs-advancements-in-recycling/)**
-
-
----
-
 ### L’acquisition équipement reconditionné Vs neuf
 
 * Smartphones : 87 à 64% d’impact annuel
@@ -152,6 +144,15 @@ Les pays en développement auraient accès à des matières premières bon march
 **Source : [ADEME](https://librairie.ademe.fr/dechets-economie-circulaire/5241-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html)**
 
 ---
+
+### Enjeux de filière
+
+> Unir ses forces à celles d’une autre entreprise qui s’occupe de recyclage depuis longtemps, trouver des prestataires de services appropriés pour fournir une assistance externe au recyclage… De telles options sont vitales lorsque les entreprises n’ont pas encore de machines sur place et n’ont pas l’expérience nécessaires.
+**Source : [https://epsnews.com/](https://epsnews.com/2022/10/12/e-waste-spurs-advancements-in-recycling/)**
+
+
+---
+
 ### Comment développer l'économie circulaire ?
 
 1. Récupération des appareils électroniques en fin de vie
@@ -162,7 +163,7 @@ Les pays en développement auraient accès à des matières premières bon march
 
 ---
 
-> Face à un tel défi, la smart data permettant le traitement en temps réel des données les plus pertinentes pour une activité - est la candidate parfaite pour la création de solutions à impact immédiat.
+> Face à un tel défi, la `smart data` permettant le traitement en temps réel des données les plus pertinentes pour une activité - est la candidate parfaite pour la création de solutions à impact immédiat.
 
 **Source : [https://www.lixo.tech](https://www.lixo.tech/blog/gestion-des-dechets-la-data-a-un-role-a-jouer)**
 
