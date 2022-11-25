@@ -36,18 +36,17 @@
 
 ---
 
-### En volume ?
+### En volume&nbsp;?
 
-> Les gens se sont débarrassés de 53,6 millions de tonnes métriques de déchets électroniques en 2019 une quantité qui devrait augmenter de près de 40 % d’ici 2030.
-**Source : [https://www.circularonline.co.uk](https://www.circularonline.co.uk/news/uci-professor-describes-how-to-develop-a-circular-economy-for-e-waste/)**
+> Les gens se sont débarrassés de 53,6 millions de tonnes de déchets électroniques en 2019 une quantité qui devrait augmenter de près de 40 % d’ici 2030.
+> **Source : [https://www.circularonline.co.uk](https://www.circularonline.co.uk/news/uci-professor-describes-how-to-develop-a-circular-economy-for-e-waste/)**
 
 ---
 
-### En recyclage ?
+### En recyclage&nbsp;?
 
-> Le Global E-waste Monitor indique qu’en 2019, seuls 17 % environ des déchets électroniques du monde étaient correctement gérés en vue de leur recyclage dans les pays qui les produisent.
-
-**Lire : [Short-circuiting the electronic-waste crisis](https://www.nature.com/articles/d41586-022-03647-y)**
+> Le Global E-waste Monitor indique qu’en 2019, seuls 17% environ des déchets électroniques du monde étaient correctement gérés en vue de leur recyclage dans les pays qui les produisent.
+> **Lire : [Short-circuiting the electronic-waste crisis](https://www.nature.com/articles/d41586-022-03647-y)**
 
 ---
 
@@ -57,20 +56,22 @@
 
 ![Smartphone](me_taux_smartphones.png)
 
+
+---
+
+### Avantage de les envoyer dans le tiers monde&nbsp;?
+
+> Les pays développés bénéficieraient de coûts d’élimination moins élevés dans les pays en développement.
+>
+> Les pays en développement auraient accès à des matières premières bon marché grâce au recyclage des déchets, et verraient exploser la production et l’emploi.
+
 ---
 
 ![Complexité matériaux](complexite-materiaux.jpg)
 
 ---
 
-### Avantage de les envoyer dans le tiers monde ?
-
-> Les pays développés bénéficieraient de coûts d’élimination moins élevés dans les pays en développement.<br><br>
-Les pays en développement auraient accès à des matières premières bon marché grâce au recyclage des déchets, et verraient exploser la production et l’emploi.
-
----
-
-## Inventaire dans la salle de nos équipements électroniques !
+`Inventaire, dans la salle, de nos équipements électroniques !`
 
 ---
 
@@ -102,30 +103,30 @@ Les pays en développement auraient accès à des matières premières bon march
 ### Pollution chimique
 
 > Bien que la plupart des déchets dangereux aient été échangés entre pays développés, il existe une asymétrie disproportionnée dans le flux des pays développés vers les pays en développement.
-**Lire : [The world-wide waste web](https://www.nature.com/articles/s41467-022-28810-x)**
+> **Lire : [The world-wide waste web](https://www.nature.com/articles/s41467-022-28810-x)**
 
 
 ---
 
 ### Incidences sociales
 > La décarbonisation des secteurs de l’électricité et des transports peut poser un problème éthique dans lequel la réduction des émissions de carbone au niveau mondial (pays développés) se fait au détriment d’une augmentation des risques socio-environnementaux sur les sites miniers locaux (pays en développement).
-**Source : [https://www.sciencedirect.com/](https://www.sciencedirect.com/science/article/pii/S0959652621019168)**
+> **Source : [https://www.sciencedirect.com/](https://www.sciencedirect.com/science/article/pii/S0959652621019168)**
 
 ---
 
 ### Précarité - citoyenneté
 
-> Les prix des équipements numériques inaccessibles pour les plus démunis. 49 % des foyers modestes au revenu inférieur à 1 500€ ne peuvent accéder à des équipements adaptés. Dans le Grand Est, ce sont 230 000 personnes qui ne peuvent s’équiper qu’avec un ordinateur à prix solidaire (à moins de 200 €).
-**Source : [https://emmaus-connect.org/](https://emmaus-connect.org/2022/09/etude-action-grand-est-des-equipements-face-a-la-precarite-numerique-et-sociale/)**
+> Les prix des équipements numériques inaccessibles pour les plus démunis. 49 % des foyers modestes au revenu inférieur à 1 500€ ne peuvent accéder à des équipements adaptés. Dans le Grand Est, ce sont 230&nbsp;000 personnes qui ne peuvent s’équiper qu’avec un ordinateur à prix solidaire (à moins de 200 €).
+> **Source : [https://emmaus-connect.org/](https://emmaus-connect.org/2022/09/etude-action-grand-est-des-equipements-face-a-la-precarite-numerique-et-sociale/)**
 
 ---
 
 ### L’acquisition équipement reconditionné Vs neuf
 
-* Smartphones : 87 à 64% d’impact annuel
-* Tablette : 46 à 80% d’impact annuel
-* Ordinateur portable : 43 à 97% d’impact annuel
-* Ordinateur fixe : 43 à 97% d’impact annuel
+1. Smartphones : 87 à 64% d’impact annuel
+1. Tablette : 46 à 80% d’impact annuel
+1. Ordinateur portable : 43 à 97% d’impact annuel
+1. Ordinateur fixe : 43 à 97% d’impact annuel
 
 **Source : [ADEME](https://librairie.ademe.fr/dechets-economie-circulaire/5241-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html)**
 
@@ -137,7 +138,7 @@ Les pays en développement auraient accès à des matières premières bon march
 1. L'ajout d’accessoires neufs
 1. Le changement de pièces systématisé ou non
 1. L'utilisation de pièces de seconde main
-1. Le volume du packaging et les matériaux le constituant
+1. Le volume du packaging et les matériaux
 1. Le marché d’approvisionnement
 1. Le lieu de reconditionnement
 
@@ -148,28 +149,33 @@ Les pays en développement auraient accès à des matières premières bon march
 ### Enjeux de filière
 
 > Unir ses forces à celles d’une autre entreprise qui s’occupe de recyclage depuis longtemps, trouver des prestataires de services appropriés pour fournir une assistance externe au recyclage… De telles options sont vitales lorsque les entreprises n’ont pas encore de machines sur place et n’ont pas l’expérience nécessaires.
-**Source : [https://epsnews.com/](https://epsnews.com/2022/10/12/e-waste-spurs-advancements-in-recycling/)**
+> **Source : [https://epsnews.com/](https://epsnews.com/2022/10/12/e-waste-spurs-advancements-in-recycling/)**
 
 
 ---
 
-### Comment développer l'économie circulaire ?
+### Comment développer l'économie circulaire&nbsp;?
 
 1. Récupération des appareils électroniques en fin de vie
-1. Le développement d'outils d'automatisation rentables pour le désassemblage des produits électroniques
+1. Le développement d’outils d'automatisation rentables pour le désassemblage des produits électroniques
 1. La récupération des ressources matérielles, en particulier le cobalt, des appareils mis au rebut.
 
 **Source : [https://www.circularonline.co.uk](https://www.circularonline.co.uk/news/uci-professor-describes-how-to-develop-a-circular-economy-for-e-waste/)**
 
 ---
 
-> Face à un tel défi, la `smart data` permettant le traitement en temps réel des données les plus pertinentes pour une activité - est la candidate parfaite pour la création de solutions à impact immédiat.
+### Attention au techno-solutionnisme
 
-**Source : [https://www.lixo.tech](https://www.lixo.tech/blog/gestion-des-dechets-la-data-a-un-role-a-jouer)**
+> Face à un tel défi, la smart data permettant le traitement en temps réel des données les plus pertinentes pour une activité est la candidate parfaite pour la création de solutions à impact immédiat.
+> **Source : [https://www.lixo.tech](https://www.lixo.tech/blog/gestion-des-dechets-la-data-a-un-role-a-jouer)**
 
 ---
 
-## Sortir de la pensée analytique ?
+`Quels sont les usages qui nécessitent des appareils électroniques ?`
+
+---
+
+## Sortir de la pensée analytique&nbsp;?
 
 ---
 
@@ -183,41 +189,40 @@ Les pays en développement auraient accès à des matières premières bon march
 
 ---
 
-### Et ici on en est où ?
+### Et ici on en est où&nbsp;?
 
-1. Baisse de la disponibilité des matières premières ?
-1. Augmentation du coût des matières premières ?
-1. Obligation de garder plus longtemps ?
-1. Obligation de maintenance ?
-
----
-
-## La société de demain : la France est un pays pauvre
+1. Baisse de la disponibilité des matières premières&nbsp;?
+1. Augmentation du coût des matières premières&nbsp;?
+1. Obligation de garder plus longtemps&nbsp;?
+1. Obligation de maintenance&nbsp;?
 
 ---
 
-### Comment on organise ?
-
-1. Répartition
-2. Aristocratie
-3. Maintenance :: stocke de pièces de rechange
-3. On stocke ?
-4. Santé ?
-5. Education ?
+`La société de demain : la France est un pays « pauvre » !`
 
 ---
-2019 : 460,859
-2020 : 466,931
+
+### Comment on organise&nbsp;?
+
+1. Répartition des richesses&nbsp;?
+2. Aristocratie privilégiée&nbsp;?
+3. Investissement dans la maintenance&nbsp;?
+3. On stocke&nbsp;?
+4. Santé&nbsp;?
+5. Education&nbsp;?
+6. Tissus économique&nbsp;?
+
 ---
 
-Carte du territoire<br><br>
+1. 2019 : 460 859 kg/an
+1. 2020 : 466 931 kg/an
 
 ---
 
 ### Pour aller plus loin Low-Tech
 
 **Low-tech : après les imaginaires de la sobriété technique, il faut s’intéresser aux usages:**
-https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-technique-il-faut-sinteresser-aux-usages-190693
+**Source : [https://theconversation.com/](https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-technique-il-faut-sinteresser-aux-usages-190693)
 
 
 
@@ -227,7 +232,7 @@ https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-techni
       font-family: Subjectivity;
       font-weight: 400;
       font-style: normal;
-      src: url(’fonts/Subjectivity/Subjectivity-Regular.woff2’) format(’woff2’);
+      src: url("fonts/Subjectivity/Subjectivity-Regular.woff2") format("woff2");
     }
 
     @font-face {
@@ -235,7 +240,7 @@ https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-techni
       font-weight: 200;
       font-style: normal;
 
-      src: url(’fonts/Subjectivity/Subjectivity-Light.woff2’) format(’woff2’);
+      src: url("fonts/Subjectivity/Subjectivity-Light.woff2") format("woff2");
     }
 
     @font-face {
@@ -243,7 +248,7 @@ https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-techni
       font-weight: 500;
       font-style: normal;
 
-      src: url(’fonts/Subjectivity/Subjectivity-Bold.woff2’) format(’woff2’);
+      src: url("fonts/Subjectivity/Subjectivity-Bold.woff2") format("woff2");
     }
 
     body {
@@ -299,6 +304,23 @@ https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-techni
       font-size: clamp(1rem, 10vw, 20rem);
     }
 
+    .slide:has(code) {
+      color: #fff;
+      background: blue;
+      text-align: center;
+    }
+
+    .slide:has(code) p {
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .slide:has(code) code {
+      font-family: Arial;
+      font-size: 3vw;
+
+    }
+
     .slide-with-image .image {
       position: absolute;
       top: 0;
@@ -319,12 +341,13 @@ https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-techni
     .slide-with-image p {
       padding: 1rem 0;
       color: #fff;
-      background: #000;
+      background: rgba(0,0,0,0.7);
     }
 
     h1 {
       text-align: center;
       line-height: 1;
+      font-family: Subjectivity;
     }
 
     h1, strong {
@@ -339,6 +362,7 @@ https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-techni
 
     h2 {
       background: #0c7d01;
+      font-family: Subjectivity;
       margin: 0 auto 10px;
       max-width: 80vw;
       padding: 0.5em 0.5em 0.3em;
@@ -357,12 +381,14 @@ https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-techni
       position: absolute;
       background: #0c7d01;
       text-align: left;
+      font-family: Subjectivity;
     }
 
     blockquote {
       font-size: clamp(1rem, 2.5vw, 1.9rem);
       font-weight: 500;
       max-width: 70vw;
+      font-style: italic;
     }
 
     ol {
@@ -386,13 +412,18 @@ https://theconversation.com/low-tech-apres-les-imaginaires-de-la-sobriete-techni
       min-height: 50vh;
     }
 
+    ul,ol {
+      padding: 0;
+      margin: 0 auto;
+    }
+
     blockquote strong {
       display: block;
     }
 
     .text blockquote {
       position: relative;
-      font-style: normal;
+
     }
 
     blockquote:before {
