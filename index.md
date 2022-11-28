@@ -50,14 +50,6 @@
 
 ---
 
-### Près de chez vous
-
-1. 2019 : 460 859 kg/an
-1. 2020 : 466 931 kg/an
-
-
----
-
 
 ![Ewaste recyclage](ewaste-recycling.jpg)
 
